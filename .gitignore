@@ -128,3 +128,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.vs/PyQt/FileContentIndex/read.lock
+.vs/ProjectSettings.json
+.vs/PyQt/FileContentIndex/f8c5a858-692b-4e54-ba36-89d869b807e8.vsidx
+.vs/PyQt/FileContentIndex/21bbe3d8-d9cc-40d7-a941-780dbae67c25.vsidx
