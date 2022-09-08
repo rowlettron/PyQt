@@ -134,3 +134,8 @@ dmypy.json
 .vs/PyQt/FileContentIndex/21bbe3d8-d9cc-40d7-a941-780dbae67c25.vsidx
 *.vsidx
 *.sqlite
+.vs/PyQt/v17/.suo
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+.vs/PyQt/v17/.suo
+.vs/slnx.sqlite
