@@ -15,9 +15,9 @@ from PyQt6.QtWidgets import (
     QWidget
 )
 
-WINDOW_SIZE = 235
+WINDOW_SIZE = 500
 DISPLAY_HEIGHT = 35
-BUTTON_SIZE = 40
+BUTTON_SIZE = 75
 ERROR_MSG = "ERROR"
 
 class PyCalcWindow(QMainWindow):
