@@ -1,5 +1,5 @@
 REM Usage:
-REM Activate.bat
+REM CalcActivate.bat
 
 Calc\Scripts\activate 
 

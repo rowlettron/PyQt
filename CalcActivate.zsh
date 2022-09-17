@@ -1,4 +1,4 @@
 # Usage:
-# source Activate.zsh
+# source CalcActivate.zsh
 
 source Calc/bin/activate
